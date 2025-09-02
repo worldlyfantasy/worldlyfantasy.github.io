@@ -1,7 +1,7 @@
 # Site settings
 title: 格桑梅朵 Blog
 SEOTitle: 格桑梅朵的博客 | GSMD Blog
-header-img: https://gbres.dfcfw.com/Files/iimage/20231128/4B46A10934F7399D86C2EF04164C04D8_w600h600.png
+header-img: img/home-bg.jpg
 email: worldlyfantasy@gmail.com
 description: "这里是 @格桑梅朵 的个人博客，与你一起发现更大的世界 | 自由、民主、正义"
 keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
@@ -74,11 +74,11 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "自由、民主、正义 <br> @ 思益博雅"
+sidebar-avatar: https://gbres.dfcfw.com/Files/iimage/20231128/4B46A10934F7399D86C2EF04164C04D8_w600h600.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
-featured-tags: true # whether or not using Feature-Tags
+featured-tags: false # whether or not using Feature-Tags
 featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
@@ -91,12 +91,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
+    { title: "黎海森", href: "https://static-host-d6cerspe-todolist.sealosbja.site/" },
+
     { title: "尹峰以为", href: "http://ingf.github.io/" },
   ]
